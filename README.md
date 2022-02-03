@@ -1,2 +1,0 @@
-# skilopata.github.io
-WEB
