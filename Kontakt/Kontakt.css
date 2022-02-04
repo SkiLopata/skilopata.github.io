@@ -65,6 +65,11 @@
   margin: 4px auto 0 18px;
 }
 
+.u-section-1 .u-btn-2 {
+  background-image: none;
+  padding: 0;
+}
+
 .u-section-1 .u-text-5 {
   margin: 76px auto 60px;
 }
